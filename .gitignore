@@ -1,0 +1,26 @@
+# Rust
+/target/
+Cargo.lock
+
+# Environment files
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+
+cipher_data.txt
+visual_clues.txt
+solution_verification.txt
+challenge.txt
+verify_solution.sh
+
+
+guide.md
